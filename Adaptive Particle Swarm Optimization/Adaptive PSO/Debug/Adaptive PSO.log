@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\asus\source\repos\adaptive pso\adaptive pso\源.cpp(157): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\adaptive pso\adaptive pso\源.cpp(173): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\adaptive pso\adaptive pso\源.cpp(190): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\adaptive pso\adaptive pso\源.cpp(208): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\adaptive pso\adaptive pso\源.cpp(367): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Adaptive PSO.vcxproj -> C:\Users\asus\source\repos\Adaptive PSO\Debug\Adaptive PSO.exe
+  Adaptive PSO.vcxproj -> C:\Users\asus\source\repos\Adaptive PSO\Debug\Adaptive PSO.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+﻿  源.cpp
+c:\users\asus\source\repos\ga\ga\源.cpp(12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(51): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(57): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(164): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\ga\ga\源.cpp(179): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+源1.obj : error LNK2005: "void __cdecl initialize(void)" (?initialize@@YAXXZ) 已经在 源.obj 中定义
+源1.obj : error LNK2005: "struct gen * group" (?group@@3PAUgen@@A) 已经在 源.obj 中定义
+源1.obj : error LNK2005: "struct gen * group_new" (?group_new@@3PAUgen@@A) 已经在 源.obj 中定义
+C:\Users\asus\source\repos\ga\Debug\ga.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

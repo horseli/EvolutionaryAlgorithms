@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\asus\source\repos\best_keep\best_keep\源.cpp(108): warning C4101: “x”: 未引用的局部变量
+c:\users\asus\source\repos\best_keep\best_keep\源.cpp(204): warning C4101: “k”: 未引用的局部变量
+c:\users\asus\source\repos\best_keep\best_keep\源.cpp(283): warning C4101: “i”: 未引用的局部变量
+c:\users\asus\source\repos\best_keep\best_keep\源.cpp(466): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\best_keep\best_keep\源.cpp(467): warning C4101: “i”: 未引用的局部变量
+  best_keep.vcxproj -> C:\Users\asus\source\repos\best_keep\Debug\best_keep.exe
+  best_keep.vcxproj -> C:\Users\asus\source\repos\best_keep\Debug\best_keep.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\asus\source\repos\dual-strategy differential evolution(dsde)\dual-strategy differential evolution(dsde)\源.cpp(498): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Dual-Strategy Differential Evolution(DSDE).vcxproj -> C:\Users\asus\source\repos\Dual-Strategy Differential Evolution(DSDE)\Debug\Dual-Strategy Differential Evolution(DSDE).exe
+  Dual-Strategy Differential Evolution(DSDE).vcxproj -> C:\Users\asus\source\repos\Dual-Strategy Differential Evolution(DSDE)\Debug\Dual-Strategy Differential Evolution(DSDE).pdb (Partial PDB)

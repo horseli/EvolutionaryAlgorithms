@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\asus\source\repos\pso\pso\源.cpp(141): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\pso\pso\源.cpp(157): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\pso\pso\源.cpp(174): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\source\repos\pso\pso\源.cpp(192): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  pso.vcxproj -> C:\Users\asus\source\repos\pso\Debug\pso.exe
+  pso.vcxproj -> C:\Users\asus\source\repos\pso\Debug\pso.pdb (Partial PDB)

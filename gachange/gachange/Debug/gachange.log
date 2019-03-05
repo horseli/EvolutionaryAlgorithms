@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\asus\source\repos\gachange\gachange\源.cpp(146): warning C4101: “k”: 未引用的局部变量
+c:\users\asus\source\repos\gachange\gachange\源.cpp(199): warning C4101: “i”: 未引用的局部变量
+c:\users\asus\source\repos\gachange\gachange\源.cpp(287): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  gachange.vcxproj -> C:\Users\asus\source\repos\gachange\Debug\gachange.exe
+  gachange.vcxproj -> C:\Users\asus\source\repos\gachange\Debug\gachange.pdb (Partial PDB)

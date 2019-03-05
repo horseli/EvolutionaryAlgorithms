@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\asus\source\repos\de\de\源.cpp(149): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  DE.vcxproj -> C:\Users\asus\source\repos\DE\Debug\DE.exe
+  DE.vcxproj -> C:\Users\asus\source\repos\DE\Debug\DE.pdb (Partial PDB)
